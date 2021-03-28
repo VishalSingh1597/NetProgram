@@ -1,0 +1,16 @@
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.exe
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.deps.json
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.runtimeconfig.json
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.runtimeconfig.dev.json
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.dll
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\bin\Debug\net5.0\ref\MyFirstProgram.dll
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.pdb
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.csprojAssemblyReference.cache
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.AssemblyInfoInputs.cache
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.AssemblyInfo.cs
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.dll
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\ref\MyFirstProgram.dll
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.pdb
+E:\.NET\c#\MyFirstProgram\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.genruntimeconfig.cache
